@@ -19,7 +19,7 @@ const HomeBottomText = () => {
   }, []);
 
   return (
-    <div className="w-full flex items-end  gap-[15rem]">
+    <div className="w-full md:flex md:items-end  md:gap-[15rem]">
       <div className="flex justify-start items-center pl-4 gap-2 text-white pb-4">
         <Globe /> {time} 2025 Pakistan
       </div>

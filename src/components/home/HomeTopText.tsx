@@ -13,9 +13,9 @@ const HomeTopText = () => {
         r anmation
       </div>
       <div className="text-[10vw] leading-[10vw] uppercase">Practicé</div>
-      <div className=" flex justify-end pr-4">
-        <h3 className="w-[15vw] text-start font-[font300]">
-          This practice website is built to explore creativity through
+      <div className=" flex justify-end pr-4 mt-8">
+        <h3 className="w-[60vw] md:w-[15vw] text-start font-[font300] ">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This practice website is built to explore creativity through
           animation. Not just for today, but as a skill that grows tomorrow, in
           five months, and in five years. We look for the spark that turns
           simple practice into inspiration.
